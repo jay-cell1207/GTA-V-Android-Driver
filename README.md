@@ -2,5 +2,6 @@
 GTA V Port GPU drivers, compatibility fixes, and troubleshooting resources to help resolve game crashes, Vulkan rendering issues, graphical glitches, and performance problems on Old Adreno GPUs.
 
 
-Credits To 
-Winative https://github.com/WinNative-Emu/WinNative
+# Credits
+WinNative 
+AndrenoTool
